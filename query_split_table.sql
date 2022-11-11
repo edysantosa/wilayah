@@ -1,6 +1,5 @@
 create table provinsi (
     id varchar(13),
-    kode varchar(50) not null,
     nama varchar(255) not null,
     primary key (id)
 );
